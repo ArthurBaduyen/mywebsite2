@@ -1,0 +1,26 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="arthurbaduyen.co.nf" resolutions="1x" timestamp="1461164898661">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="244676328" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="bg.jpg" crc="3974596152" ref="index"/>
+    <file name="fore-02.png" crc="4155043304" ref="index"/>
+    <file name="fore-03.png" crc="2499478" ref="index"/>
+    <file name="a_900x675.png" crc="4047878668" seo="true" ref="index"/>
+    <file name="u149-6.png" crc="4163171274" ref="index"/>
+    <file name="r_900x675.png" crc="4126983971" seo="true" ref="index"/>
+    <file name="t_900x675.png" crc="4015277113" seo="true" ref="index"/>
+    <file name="h_900x675.png" crc="3876284904" seo="true" ref="index"/>
+    <file name="u_900x675.png" crc="4094692877" seo="true" ref="index"/>
+    <file name="r2_900x675.png" crc="4084446074" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3838795719" seo="true" mt="1461164880336" redirect="true"/>
+</manifest>
